@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Redouane-Maamri-Personal-Portfolio/static/css/main.223a4e46.css",
+    "main.js": "/Redouane-Maamri-Personal-Portfolio/static/js/main.a00d4232.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Redouane-Maamri-Personal-Portfolio/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/Redouane-Maamri-Personal-Portfolio/index.html",
+    "main.223a4e46.css.map": "/Redouane-Maamri-Personal-Portfolio/static/css/main.223a4e46.css.map",
+    "main.a00d4232.js.map": "/Redouane-Maamri-Personal-Portfolio/static/js/main.a00d4232.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Redouane-Maamri-Personal-Portfolio/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.223a4e46.css",
+    "static/js/main.a00d4232.js"
+  ]
+}
