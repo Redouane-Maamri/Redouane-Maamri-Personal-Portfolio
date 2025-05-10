@@ -13,6 +13,7 @@ export default function HeroSection() {
               <span className="block w-4 h-1 bg-purple-400 rounded-full mt-1 mx-auto group-hover:w-6 transition-all duration-300"></span>
             </a>
             <a href="#About" className="hover:text-gray-300">About Me</a>
+            <a href="#formations" className="hover:text-gray-300">Formations</a>
             <a href="#technologies" className="hover:text-gray-300">TeckStack</a>
             <a href="#service" className="hover:text-gray-300">Services</a>
             <a href="#Projects" className="hover:text-gray-300">Projects</a>
